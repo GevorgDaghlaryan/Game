@@ -1,0 +1,15 @@
+.wrapper {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("https://img3.goodfon.ru/wallpaper/nbig/0/8f/krestik-nolik-feniks-bumaga.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.gameInfo{
+    margin-top: 20px;
+    font-size: 50px;
+    color: green;
+    background-color: burlywood;
+}
